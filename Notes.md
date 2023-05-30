@@ -1,5 +1,5 @@
 - [ ] Know how it works
-- [ ] Exctract code (**deterministic Buchi**), if not possible check the alternatives
+- [X] Exctract code (**deterministic Buchi**), if not possible check the alternatives
 - [ ] Set ou couple of tests :
 
 
@@ -11,7 +11,7 @@
 
     3 - Know what to give from unity and to give back to unity
 
-- [ ] Spend One hour on the documentation
+- [X] Spend One hour on the documentation
 
 
 # TLTL Formulas for lomap 
