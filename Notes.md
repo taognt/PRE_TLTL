@@ -17,7 +17,17 @@
 # TLTL Formulas for lomap 
 <img src="..\documents\TLTL_lomap.png"  width="60%" >
 
+<img src="..\documents\TLTL_lomap_options.png"  width="60%" >
+
 # Documentation
 **Synthax**:
 
 https://spot.lre.epita.fr/ioltl.html
+
+-D for Deterministic automata (combine with --generic to be sure to obtain a deterministic automaton)
+
+--small for a small automata 
+
+-B state-based acceptance
+
+-b if transition-based acceptance is OK
