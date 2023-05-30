@@ -36,7 +36,7 @@ setup(
         'Topic :: Scientific/Engineering',
         'Topic :: Scientific/Engineering :: Artificial Intelligence',
     ],
-    url='https://github.com/wasserfeder/lomap',
+    url='https://github.com/wasserwfeder/lomap',
     author='Alphan Ulusoy, Cristian-Ioan Vasile',
     author_email='cvasile@mit.edu',
     license='GNU GPLv2',

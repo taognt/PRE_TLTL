@@ -12,3 +12,12 @@
     3 - Know what to give from unity and to give back to unity
 
 - [ ] Spend One hour on the documentation
+
+
+# TLTL Formulas for lomap 
+<img src="..\documents\TLTL_lomap.png"  width="60%" >
+
+# Documentation
+**Synthax**:
+
+https://spot.lre.epita.fr/ioltl.html
